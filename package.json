@@ -1,0 +1,16 @@
+{
+  "name": "same-metal-weave-u9drd",
+  "productName": "same-metal-weave-u9drd",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "brall",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "40.1.0"
+  }
+}
